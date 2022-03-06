@@ -1,0 +1,16 @@
+{
+  "name": "rich-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Quinn Gibson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "sanitize-html": "^2.7.0"
+  }
+}
